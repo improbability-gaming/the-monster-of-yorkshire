@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x0274EBE0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x027F6048" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7 for Windows</generator>
-  <activeNode nodeId="node-0x0274EBE0"/>
-  <item nodeId="node-0x0274EBE0">
+  <activeNode nodeId="node-0x027F6048"/>
+  <item nodeId="node-0x027F6048">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve"></result>
     <commentary xml:space="preserve"></commentary>
