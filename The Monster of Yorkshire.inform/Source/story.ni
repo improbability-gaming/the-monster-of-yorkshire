@@ -277,6 +277,7 @@ Understand "attack" and "hit"and "punch" and "murder" as killing.
 [Rule for printing the locale description of Ruined House Inside: stop.]
 
 
+
 [@@@@@@@@@New Version for Armory]
 Giving Armor is a scene.  Giving Armor begins when Sad Mother is in Church.  
 
