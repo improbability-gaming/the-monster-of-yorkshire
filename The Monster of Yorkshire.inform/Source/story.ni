@@ -276,3 +276,18 @@ Understand "attack" and "hit"and "punch" and "murder" as killing.
 
 [Rule for printing the locale description of Ruined House Inside: stop.]
 
+
+[@@@@@@@@@New Version for Armory]
+Giving Armor is a scene.  Giving Armor begins when Sad Mother is in Church.  
+
+When Giving Armor begins:
+	say "I guess she meant that the blacksmith has the armor.".
+	
+Instead of asking Baldur the Blacksmith about "armor":
+	say "Oh, here's the armor.  It was used by the woman's husband, but I guess he won't be needing it anymore...";
+	say "Now you the armor.";
+	now the player carries the ancient armor.
+	
+Giving Armor ends when the player carries the ancient armor.  
+
+
