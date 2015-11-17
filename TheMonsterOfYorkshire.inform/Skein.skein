@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x02462910" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x02462910"/>
+  <item nodeId="node-0x02462910">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">The Monster of Yorkshire&#x000A;An Interactive Fiction by ImprobabilityGaming&#x000A;Release 1 / Serial number 151116 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Forest&#x000A;Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.&#x000A;&#x000A;Deckard Cain: "Hello, my friend!  Stay awhile and listen!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0247D300"/>
+      <child nodeId="node-0x0246CAD8"/>
+      <child nodeId="node-0x0246F230"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0247D300">
+    <command xml:space="preserve">look around</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0247DBD8"/>
+      <child nodeId="node-0x0246CA68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0247DBD8">
+    <command xml:space="preserve">where am i</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0247DC48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0247DC48">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0247DD38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0247DD38">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Path 1&#x000A;You see a smoke coming off from far away.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0247DDA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0247DDA8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Forest&#x000A;Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.&#x000A;&#x000A;Deckard Cain: "Hello, my friend!  Stay awhile and listen!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0247DE78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0247DE78">
+    <command xml:space="preserve">look aorund</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0247DF48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0247DF48">
+    <command xml:space="preserve">look around</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0246CA68">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Forest&#x000A;Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.&#x000A;&#x000A;Deckard Cain: "Hello, my friend!  Stay awhile and listen!"&#x000A;&#x000A;There is only Deckard Cain here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0246CAD8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246CB48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246CB48">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246CC38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246CC38">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Path 1&#x000A;You see a smoke coming off from far away.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246CCA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246CCA8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D068"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D068">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Outskirt&#x000A; Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.   There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D0D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D0D8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D8A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D8A8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Town Entrance&#x000A;A guard is standing.  He seems to be annoyed with the smell of corpses.&#x000A;&#x000A;You can see Wilhelm the guard here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D7C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D7C8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Road 1&#x000A;People who are walking by glance at you silently and pass by with haste.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D448"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D448">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Town Square&#x000A; Even though it should have been the most busiest place of the town, Town Square only has few people.  Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D288"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D288">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Road 2&#x000A;A Sculpture of Angel is displayed.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D9F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D9F8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Church&#x000A;The door opens with a squeaking sound.  Inside Church, a luminescence light comes through a stained glass which portrays a fight between the devil and angel inside one person. Few people are mumbling prayers.  &#x000A;&#x000A;You can see John the Priest here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D6E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D6E8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D608"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D608">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D758"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D758">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D988"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D988">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D838"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D838">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D2F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D2F8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D368"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D368">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D3D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D3D8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D4B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D4B8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Road 2&#x000A;A Sculpture of Angel is displayed.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D528"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D528">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D598"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D598">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Town Square&#x000A; Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D678"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D678">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Road 3&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246D918"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246D918">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Farmer's House&#x000A;You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. A farmer is trying to gather his cattles with little success.  "That monster!  We should have killed it when we had the chance! Hey, traveler, help me getting these cattles, and I'll give you a good reward. "  You decide to help the farmer. &#x000A;&#x000A;You can see Martin the Farmer here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F380"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F380">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Farm 1&#x000A;The farm is big, but now it's all burned down.   Nothing is left but some grass.  The cattles are all running over the place.  You must catch them all.&#x000A;&#x000A;You can see Cattle 1, Cattle 2, Cattle 3 and some grass here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F460"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F460">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F4D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F4D0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0246F230">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Path 1&#x000A;You see a smoke coming off from far away.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F540"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F540">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Outskirt&#x000A; Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.   There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F8C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F8C0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Town Entrance&#x000A;A guard is standing.  He seems to be annoyed with the smell of corpses.&#x000A;&#x000A;You can see Wilhelm the guard here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F5B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F5B0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Road 1&#x000A;People who are walking by glance at you silently and pass by with haste.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F620"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F620">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Town Square&#x000A; Even though it should have been the most busiest place of the town, Town Square only has few people.  Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F150"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F150">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Road 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F930"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F930">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Ore Mine&#x000A;You see Glittering Ore Veins!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F070"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F070">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Road 4&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246FA80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246FA80">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Town Square&#x000A; Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F700"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F700">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Road 2&#x000A;A Sculpture of Angel is displayed.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246FAF0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246FAF0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Church&#x000A;The door opens with a squeaking sound.  Inside Church, a luminescence light comes through a stained glass which portrays a fight between the devil and angel inside one person. Few people are mumbling prayers.  &#x000A;&#x000A;You can see John the Priest here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F310"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F310">
+    <command xml:space="preserve">ask priest</command>
+    <result xml:space="preserve">(for John the Priest)&#x000A;(John the Priest first taking John the Priest)&#x000A;John the Priest has better things to do.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246F690"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246F690">
+    <command xml:space="preserve">ask priest about quest</command>
+    <result xml:space="preserve">"In order for you to receive holy water, I must first obtain water from the well in the middle of our town."&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246FCB0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246FCB0">
+    <command xml:space="preserve">ask priest about house</command>
+    <result xml:space="preserve">There is no reply.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0246FC40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0246FC40">
+    <command xml:space="preserve">ask priest about town</command>
+    <result xml:space="preserve">This town has stood for decades, and will continue to stand despite this monster lurking about.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+</Skein>
