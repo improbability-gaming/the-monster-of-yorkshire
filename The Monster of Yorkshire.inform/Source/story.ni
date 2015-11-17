@@ -1,7 +1,6 @@
-"The Monster of Yorkshire" by Improbability Gaming
+"The Monster of Yorkshire" by ImprobabilityGaming
 
 
-[github test]
 
 
 Chapter 1 - Locations
@@ -14,11 +13,9 @@ The description of Forest is "Awaking from journey, you look around where you sl
 Deckard Cain is here.  Deckard Cain is a man. "Deckard Cain: 'Hello, my friend!  Stay awhile and listen!'"
 
 
-
-
 [Path 1]
 Path 1 is a room.  Path 1 is south of Forest.  Path 1 is north of Outskirt.  
-The description of Path 1 is "[if unvisited]You see a smoke coming off from far away.[end if]"
+[if unvisited]The description of Path 1 is "You see a smoke coming off from far away."[end if]
 
 
 
@@ -34,7 +31,7 @@ The description of Outskirt is "[if unvisited] Now a town can be seen not so far
 Town Entrance is a room.  Town Entrance is south of Outskirt.  Town Entrance is north of Road 1.  
 The description of Town Entrance is "A guard is standing.  He seems to be annoyed with the smell of corpses."
 
-Wilhelm the Guard is here.  The guard is a man.   
+Wilhelm the guard is here.  The guard is a man.   
 
 
 
@@ -64,17 +61,20 @@ The description of Road 2 is "A Sculpture of Angel is displayed."
 
 [Church with Priest]
 Church is a room.  Church is south of Road 2.  
-John the Priest is here.  John the Priest is a man.
+The priest is here.  The priest is a man.
 The description of Church is "[if unvisited]The door opens with a squeaking sound.  Inside Church, a luminescence light comes through a stained glass which portrays a fight between the devil and angel inside one person.[end if] Few people are mumbling prayers.  "
 
-John the Priest carries the grail.  Instead of taking the grail, say "Priest with calm expression, 'I will give it to you when it's ready.'".
+The priest carries the grail.  Instead of taking the grail, say "Priest with calm expression, 'I will give it to you when it's ready.'".
 
-Instead of examining the priest, say ¡°The priest appears to be lost in thought.¡±
+Instead of examining the priest, say “The priest appears to be lost in thought. Perhaps you could interrupt his trance.”
 
-After asking the priest about ¡°quest¡±, say ¡°'In order for you to receive holy water, I must first obtain water from the well in the middle of our town.'¡±.
+After asking the priest about “quest”, say “'In order for you to receive holy water, I must first obtain water from the well in the middle of our town.'”.
 
-After asking Sad Mother about "baby" in Church:
-	say "'Priest...caring...now...told...me...need...rest...'  Then she goes to a bed and sleeps.".
+After asking the priest about "town", say "This town has stood for decades, and will continue to stand despite this monster lurking about."
+
+
+After asking Sad Mother about "dead baby" in Church:
+	say "'Priest... caring... now... told... me... need... rest.' She falls into a deep sleep. It's best you don't disturb her.".
 	
 
 [Road]
@@ -82,12 +82,11 @@ Road 3 is a room.  Road 3 is east of Town Square. Road 3 is west of Farmer's Hou
 
 
 
-
 [Farmer's House with Farmer]
 Farmer's House is a room.  Farmer's House is east of Road 3.  Farmer's House is west of Farm 1. 
-Martin the Farmer is here.  Farmer is a man.  The description of Farmer's House is "You can see a house barely intact.  The farm on the east burned entirely.  Some cattles are left in front of the house.  [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me getting these cattles.  I'll give you a good reward.  Some of the cattles ran to my farm would you catch those?'  You decide to help the farmer. [end if]"
+Martin the Farmer is here.  Farmer is a man.  The description of Farmer's House is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me getting these cattles, and I'll give you a good reward. '  You decide to help the farmer. [end if]"
 
-Instead of examining Martin the Farmer, say ¡°The farmer looks tired, barely maintaining conscience after a long day¡¯s work.¡±.
+Instead of examining Martin the Farmer, say “The farmer looks tired, barely maintaining conscience after a long day’s work.”.
 
 Martin the Farmer is carrying a chicken.
 
@@ -137,7 +136,7 @@ Instead of taking Cattle 1, say "It refuses.".
 Instead of taking Cattle 2, say "It refuses.".
 Instead of taking Cattle 3, say "It refuses.".
 
-[Rule for printing the locale description of Farm: say "You can see Cattle 1, Cattle 2 and Cattle 3 here.  Even though the farm is burnt, grass is still alive." instead.]
+[Rule for printing the locale description of Farm: say "You can see Cattle 1, Cattle 2 and Cattle 3 here.  Even though the farm is burnt, the grass is still alive." instead.]
 
 
 
@@ -201,8 +200,6 @@ Instead of lifting the curtain, say "As you lift up the curtain, the smell of ro
 
 The bed is here.  The description of the bed is "The bed is smacked down in middle.  The blood is all over the bed.  The rotten smell is unbearable.  It's impossible to sleep on this bed."
 
-Instead of taking the bed, say "I don't think I need that.  I need to keep searching.".
-
 Instead of sleeping on the bed, say "I would rather sleep on the ground than on that bloody bed.  I should search the bed."
 
 Instead of searching the bed, say "You search through what left of the bed, and found a corpse, if it can be called a corpse.  The bottom of the corpse is gone like it's eaten away.  'It's too big for a baby...Must be her husband.' You try to pull sympathy for the man, but only finds emptiness".
@@ -231,26 +228,21 @@ Instead of taking the sword, say "You cannot use that.  It needs to be mended."
 Instead of giving the iron ore to Blacksmith:
 	now the iron ore is nowhere;
 	now the player is carrying the sword;
-	say "'This iron ore will do.  Just a few tweak...There, all done.  Here's the sword and make sure to kill that monster for us.' Now you have a sword. ".
+	say "'This iron ore will do.  Just a few tweak...There all done.  Here's the sword make sure to kill that monster for us.' Now you have a sword. ".
 
-Instead of taking the pickaxe, say "Not yet. I¡¯d reckon that pickaxe is worth at least a chicken."
+Instead of taking the pickaxe, say "Not yet. I’d reckon that pickaxe is worth at least a chicken."
 
 Instead of giving the chicken to Blacksmith:
 	now Blacksmith is carrying the chicken;
-	now the player is carrying the pickaxe;
-	say "'That¡¯s a fine looking chicken you got there. I¡¯ll trade my pickaxe for it!' Now you have a pickaxe.".
-
-
-
-
-
+	now the player is carrying pickaxe;
+	say "'That’s a fine looking chicken you got there. I’ll trade my pickaxe for it!' Now you have an pickaxe.".
 
 
 Chapter 2 - Actions
 
 
 Sleeping on is an action applying to one thing.  
-Understand "sleep on[something]"as sleeping on.  
+Understand "sleep o n[something]" as sleeping on.  
 
 Breaking open it with is an action applying to one thing and one thing.  
 Understand "break open [something] with [something]" as breaking open it with.
