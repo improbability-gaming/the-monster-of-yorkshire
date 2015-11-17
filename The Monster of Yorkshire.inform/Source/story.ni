@@ -275,3 +275,7 @@ Understand "attack" and "hit"and "punch" and "murder" as killing.
 
 
 [Rule for printing the locale description of Ruined House Inside: stop.]
+
+
+
+Does this change????
