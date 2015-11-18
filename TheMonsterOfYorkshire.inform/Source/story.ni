@@ -6,7 +6,22 @@ Chapter 1 - Locations
 
 [Starting Point]
 Forest is a room.  Forest is north of Path 1.  
-The description of Forest is "Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.".
+The description of Forest is "You awake to the sound of leaves rustling as the warm crisp autumn air flows through the surrounding forest. Slowly recovering from the grogginess of waking up you look around yourself to examine your surroundings. Gentle rays of sunlight pour down upon the area seemingly endlessly through the thick foliage that looms several feet above your head. You feel the warmth of the sun’s rays washing over your body as you hear a sudden snap and quickly jolt your head.
+
+‘Who’s there!?’ you yell in a commanding tone attempting to not let the fact that you are still half asleep appear in your voice.
+
+As you closer examine the area the sound originated from you notice a bird, a crow to be specific, fly from a nearby tree. You follow its flight with your eyes as it soars nimbly against the autumn winds. The crow changes its flight pattern abruptly as it attempts to land on the branch of yet another nearby tree only to find that it snaps underneath its own weight. The crow takes flight again, soaring far past your range of vision and off deeper into the forest. You let out a sigh of relief as you collapse back into the pile of leaves on the ground that you found yourself in, closing your eyes in deep thought.
+
+After spending some time recollecting yourself after the encounter with the crow you raise once again, this time with your wits about you. You walk over to your hut and rummage through the odd rarities that you collect in order to sell or trade in nearby villages.
+
+‘You’ll never make a profit that way you feather-head,’ you say out loud mocking the words of your mother, ‘why couldn’t you be like your brother? An honest man with an honest darg? But no, instead you chose a life where you kiss the hare’s foot daily.’.
+
+Finally finding your satchel filled with various items you prepare to leave your hut. On your way out you spot a flask. You pick up a flask filled with a liquid and, uncorking it, bring it to your nose in order to smell the aroma. Pleased with the smell of the liquid inside the flask you bring it to your lips you quickly guzzle it down. Wiping the remaining residue from the surrounding area of your lips with your forearm you let out a great sigh of satisfaction. 
+
+‘Nothing better than a full merry-go-down to start of the day! Well I hate to be so straight-fingered with you mother,’ you shout out in front of the audience of forest animals as you walk outside of the hut, ‘but the life of a trader, the thrill of a hunter, that’s my thought of a honest darg!’
+
+Today is the day you visit one of your usual spots, Yorkshire, a few ways south of here.
+".
 
 
 Deckard Cain is a man. Deckard Cain has a name "Deckard Cain". Deckard Cain is here. "Deckard Cain: 'Hello, my friend!  Stay awhile and listen!'"
