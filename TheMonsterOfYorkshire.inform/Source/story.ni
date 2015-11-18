@@ -20,8 +20,7 @@ Finally finding your satchel filled with various items you prepare to leave your
 
 ‘Nothing better than a full merry-go-down to start of the day! Well I hate to be so straight-fingered with you mother,’ you shout out in front of the audience of forest animals as you walk outside of the hut, ‘but the life of a trader, the thrill of a hunter, that’s my thought of a honest darg!’
 
-Today is the day you visit one of your usual spots, Yorkshire, a few ways south of here.
-".
+Today is the day you visit one of your usual spots, Yorkshire, a few ways south of here.".
 
 
 Deckard Cain is a man. Deckard Cain has a name "Deckard Cain". Deckard Cain is here. "Deckard Cain: 'Hello, my friend!  Stay awhile and listen!'"
