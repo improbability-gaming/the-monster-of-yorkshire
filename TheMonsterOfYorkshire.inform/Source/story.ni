@@ -1,6 +1,6 @@
 "The Monster of Yorkshire" by ImprobabilityGaming
 
-A person has a text called name.
+A person has a text called name. A man has a text called name. A woman has a text called name.
 
 Chapter 1 - Locations
 
@@ -9,7 +9,7 @@ Forest is a room.  Forest is north of Path 1.
 The description of Forest is "Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.".
 
 
-Deckard Cain is here.  Deckard Cain is a man. "Deckard Cain: 'Hello, my friend!  Stay awhile and listen!'"
+Deckard Cain is a man. Deckard Cain has a name "Deckard Cain". Deckard Cain is here. "Deckard Cain: 'Hello, my friend!  Stay awhile and listen!'"
 
 
 [Path 1]

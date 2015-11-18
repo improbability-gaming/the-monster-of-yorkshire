@@ -43,7 +43,7 @@ Global Story = BC_0;
 Constant Headline BC_1;
 Constant Story_Author BC_2;
 Release 1;
-Serial "151116";
+Serial "151117";
 
 Default Story 0;
 Default Headline 0;
@@ -11042,9 +11042,10 @@ Object -> I126_deckard_cain ""
     class K10_man
     with short_name BC_159
     with initial BC_160
+    with p15_name BC_161
     has proper
     with vector 0
-    with cap_short_name BC_161
+    with cap_short_name BC_162
     has mark_as_thing
     with IK2_Count 1
     with IK2_Link I130_wilhelm_the_guard
@@ -11055,7 +11056,6 @@ Object -> I126_deckard_cain ""
     with KD_Count 10
     with name 'deckard' 'cain' 'men//p' 
     with action_bitmap 0 0 0 0 0 0 
-    with p15_name BC_162
     with description BC_163
     with list_together BC_164
     with plural BC_165
@@ -56933,7 +56933,7 @@ Array BC_158 --> PACKED_TEXT_STORAGE EMPTY_TEXT_PACKED;
 Array BC_159 --> PACKED_TEXT_STORAGE TX_PS_36;
 Array BC_160 --> PACKED_TEXT_STORAGE TX_PS_37;
 Array BC_161 --> PACKED_TEXT_STORAGE TX_PS_36;
-Array BC_162 --> PACKED_TEXT_STORAGE EMPTY_TEXT_PACKED;
+Array BC_162 --> PACKED_TEXT_STORAGE TX_PS_36;
 Array BC_163 --> PACKED_TEXT_STORAGE EMPTY_TEXT_PACKED;
 Array BC_164 --> PACKED_TEXT_STORAGE EMPTY_TEXT_PACKED;
 Array BC_165 --> PACKED_TEXT_STORAGE TX_PS_7;
