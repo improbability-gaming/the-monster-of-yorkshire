@@ -14,14 +14,14 @@ Deckard Cain is a man. Deckard Cain has a name "Deckard Cain". Deckard Cain is h
 
 [Path 1]
 Path 1 is a room.  Path 1 is south of Forest.  Path 1 is north of Outskirt.  
-[if unvisited]The description of Path 1 is "You see a smoke coming off from far away."[end if]
+[if unvisited]The description of Path 1 is "You stumble onto a leafy pathway. Perhaps it'll lead you to town."[end if]
 
 
 
 
 [Outskirt]
 Outskirt is a room.  Outskirt is south of Path 1.  Outskirt is north of Town Entrance.  
-The description of Outskirt is "[if unvisited] Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.  [end if] There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating." 
+The description of Outskirt is "[if unvisited]You reach what appears to be the outskirts of a small town. The worn-down houses nearby appear as if they've been demolished. Still, it might be your only chance of contact. [end if] As you step closer, the smell of the rotting dead singes the inside of your nostrils, and you can see that the town lays in a massacre." 
 
 
 

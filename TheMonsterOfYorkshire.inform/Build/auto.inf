@@ -42255,11 +42255,11 @@ Array TX_R_387 --> CONSTANT_PACKED_TEXT_STORAGE TX_R_387_R;
     ResponseViaActivity(R_272_RESP_A);
 ];
 [ R_TX_S_132 ;
-    #ifdef DEBUG; if (suppress_text_substitution) { print "~[if unvisited] Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.  [end if] There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating.~"; rtrue; }
+    #ifdef DEBUG; if (suppress_text_substitution) { print "~[if unvisited]You reach what appears to be the outskirts of a small town. The worn-down houses nearby appear as if they've been demolished. Still, it might be your only chance of contact. [end if] As you step closer, the smell of the rotting dead singes the inside of your nostrils, and you can see that the town lays in a massacre.~"; rtrue; }
     #endif; ! DEBUG
     say__p=1;
-    	if (~~(((((Adj_52_t1_v10(self))))))) jump L_Say498;ParaContent(); print " Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.  ";
-    	.L_Say498; .L_SayX496;ParaContent(); print " There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating."; .L_Say499; .L_SayX497;
+    	if (~~(((((Adj_52_t1_v10(self))))))) jump L_Say498;ParaContent(); print "You reach what appears to be the outskirts of a small town. The worn-down houses nearby appear as if they've been demolished. Still, it might be your only chance of contact. ";
+    	.L_Say498; .L_SayX496;ParaContent(); print " As you step closer, the smell of the rotting dead singes the inside of your nostrils, and you can see that the town lays in a massacre."; .L_Say499; .L_SayX497;
     rtrue;
 ];
 [ R_TX_S_133 ;
@@ -49583,7 +49583,7 @@ Constant TX_PS_46 = "Twon Square";
 Constant TX_PS_94 = "UNDO the last command";
 Constant TX_PS_43 = "Wilhelm the guard";
 Constant TX_PS_74 = "You see Glittering Ore Veins!";
-Constant TX_PS_39 = "You see a smoke coming off from far away.";
+Constant TX_PS_39 = "You stumble onto a leafy pathway. Perhaps it'll lead you to town.";
 Constant TX_PS_33 = "Yourself";
 Constant TX_PS_9 = "animals";
 Constant TX_PS_87 = "axe";
