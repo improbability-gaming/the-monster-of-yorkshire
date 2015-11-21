@@ -6,13 +6,13 @@ Chapter 1 - Locations
 
 [Starting Point]
 Forest is a room.  Forest is north of Path 1.  
-The description of Forest is "You awake to the sound of leaves rustling as the warm crisp autumn air flows through the surrounding forest. Slowly recovering from the grogginess of waking up you look around yourself to examine your surroundings. Gentle rays of sunlight pour down upon the area seemingly endlessly through the thick foliage that looms several feet above your head. You feel the warmth of the sun’s rays washing over your body as you hear a sudden snap and quickly jolt your head.
+The description of Forest is "You awake to the sound of leaves rustling as the crisp autumn air flows through the surrounding forest. Slowly recovering from the grogginess of waking up you look around yourself to examine your surroundings. A few rays of sunlight pierce the thick foliage that looms several feet above your head seemingly endlessly through the area. You feel the warmth of the sun’s rays washing over your body as you hear a sudden snap and quickly jolt your head.
 
 ‘Who’s there!?’ you yell in a commanding tone attempting to not let the fact that you are still half asleep appear in your voice.
 
-As you closer examine the area the sound originated from you notice a bird, a crow to be specific, fly from a nearby tree. You follow its flight with your eyes as it soars nimbly against the autumn winds. The crow changes its flight pattern abruptly as it attempts to land on the branch of yet another nearby tree only to find that it snaps underneath its own weight. The crow takes flight again, soaring far past your range of vision and off deeper into the forest. You let out a sigh of relief as you collapse back into the pile of leaves on the ground that you found yourself in, closing your eyes in deep thought.
+As you closer examine the area the sound originated from, you notice a bird, a crow to be specific, fly from a nearby tree. You follow its flight with your eyes as it soars nimbly against the autumn winds. The crow changes its flight pattern abruptly as it attempts to land on the branch of yet another nearby tree, only to find that it snaps underneath its own weight. The crow takes flight again, soaring far past your range of vision and off deeper into the forest. You let out a sigh of relief as you collapse back into the pile of leaves on the ground that you found yourself in, closing your eyes in deep thought.
 
-After spending some time recollecting yourself after the encounter with the crow you raise once again, this time with your wits about you. You walk over to your hut and rummage through the odd rarities that you collect in order to sell or trade in nearby villages.
+After spending some time recollecting yourself after the encounter with the crow, you raise once again, this time with your wits about you. You walk over to your hut and rummage through the odd rarities that you collect in order to sell or trade in nearby villages.
 
 ‘You’ll never make a profit that way you feather-head,’ you say out loud mocking the words of your mother, ‘why couldn’t you be like your brother? An honest man with an honest darg? But no, instead you chose a life where you kiss the hare’s foot daily.’.
 
@@ -23,26 +23,24 @@ Finally finding your satchel filled with various items you prepare to leave your
 Today is the day you visit one of your usual spots, Yorkshire, a few ways south of here.".
 
 
-Deckard Cain is a man. Deckard Cain has a name "Deckard Cain". Deckard Cain is here. "Deckard Cain: 'Hello, my friend!  Stay awhile and listen!'"
-
 
 [Path 1]
 Path 1 is a room.  Path 1 is south of Forest.  Path 1 is north of Outskirt.  
-[if unvisited]The description of Path 1 is "You stumble onto a leafy pathway. Perhaps it'll lead you to town."[end if]
+[if unvisited]The description of Path 1 is "You stumble onto a leafy pathway. Perhaps it'll lead you into town."[end if]
 
 
 
 
 [Outskirt]
 Outskirt is a room.  Outskirt is south of Path 1.  Outskirt is north of Town Entrance.  
-The description of Outskirt is "[if unvisited]You reach what appears to be the outskirts of a small town. The worn-down houses nearby appear as if they've been demolished. Still, it might be your only chance of contact. [end if] As you step closer, the smell of the rotting dead singes the inside of your nostrils, and you can see that the town lays in a massacre." 
+The description of Outskirt is "[if unvisited]You reach what appears to be the outskirts of a small town. The worn-down houses nearby appear as if they've been demolished. Still, it might be your only chance of contact.[end if] As you step closer, the smell of death singes the inside of your nostrils, and you can see that the town is in a shambles resulting from a massacre."
 
 
 
 
 [Town Entrance with a Guard]
 Town Entrance is a room.  Town Entrance is south of Outskirt.  Town Entrance is north of Road 1.  
-The description of Town Entrance is "A guard is standing.  He seems to be annoyed with the smell of corpses."
+The description of Town Entrance is "A guard is standing.  He seems to be annoyed by the smell of corpses."
 
 Wilhelm the guard is here.  The guard is a man.   
 
@@ -58,9 +56,9 @@ The description of Road 1 is "People who are walking by glance at you silently a
 
 [Town Square]
 Town Square is a room.  Town Square is south of Road 1.  Town Square is north of Road 2.  Town Square is west of Road 3.  Town Square is east of Road 4.  
-The description of Town Square is "[if unvisited] Even though it should have been the most busiest place of the town, Town Square only has few people. [end if] Few guards are taking watch and some town folks are wondering around. ".
+The description of Town Square is "[if unvisited]Even though it should have been the most busiest place in the town, Town Square only has few people.[end if] A few guards are taking turns keeping watch and some town folk are wandering around.".
 
-The well is here.  "A well can be seen in the middle., but no one dares to get close to the well.".  The well is a container.  
+The well is here.  "A well can be seen in the middle, but no one dares to get close to it.".  The well is a container.  
 
 
 
@@ -75,7 +73,7 @@ The description of Road 2 is "A Sculpture of Angel is displayed."
 [Church with Priest]
 Church is a room.  Church is south of Road 2.  
 The priest is here.  The priest is a man. The priest has a name "John".
-The description of Church is "[if unvisited]The door opens with a squeaking sound.  Inside Church, a luminescence light comes through a stained glass which portrays a fight between the devil and angel inside one person.[end if] Few people are mumbling prayers.  "
+The description of Church is "[if unvisited]The door opens with a squeak. Inside the Church, a luminescence light comes through a stained glass window which portrays a fight between a demon and an angel, signifying the internal struggles of man.[end if] A few people are praying in the pews."
 
 The priest carries the grail.  Instead of taking the grail, say "Priest with calm expression, 'I will give it to you when it's ready.'".
 
@@ -97,7 +95,7 @@ Road 3 is a room.  Road 3 is east of Town Square. Road 3 is west of Farmer's Hou
 
 [Farmer's House with Farmer]
 Farmer's House is a room.  Farmer's House is east of Road 3.  Farmer's House is west of Farm 1. 
-Martin the Farmer is here.  Farmer is a man.  The description of Farmer's House is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me getting these cattles, and I'll give you a good reward. '  You decide to help the farmer. [end if]"
+Martin the Farmer is here.  Farmer is a man.  The description of Farmer's House is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me round up these cattle, and I'll give you something in return. '  You decide to help the farmer. [end if]"
 
 Instead of examining Martin the Farmer, say “The farmer looks tired, barely maintaining conscience after a long day’s work.”.
 
@@ -189,35 +187,35 @@ Instead of giving the dead baby to Sad mother:
 
 
 [Ruined House Inside]
-Ruined House Inside is a room.  Ruined House Inside is south of Ruined House.   The description of Ruined House Inside is "[if unvisited]As you enter the house, you feel a chill inside your brain.  It seems to aching with angers and agonies.  'Have I been here before?'  You try to recall a disappearing memory but each time you try to grasp on it, your head aches more and by the time you awake from the chase, you are rolling on the floor with sweats.  'I better look for that baby fast.  This place is cursed.'[end if] The house is full of broken furnitures, burned clothes and blood.  Only a one room house.  In past it could have been a comfortable house for a family of three, but now it's just a ruin."
+Ruined House Inside is a room.  Ruined House Inside is south of Ruined House.   The description of Ruined House Inside is "[if unvisited]As you enter the house, you feel a chill inside your brain.  It seems to be aching with anger and agony.  'Have I been here before?'  You try to recall a disappearing memory but each time you try to grasp it, your head aches more and it fails to resolve into a clear memory. By the time you give up on the struggle, you are rolling on the floor with sweats.  'I better look for that baby fast.  This place is cursed.'[end if] The house is full of broken furnitures, burned clothes and blood.  Only a one room house.  In the past, it could have been a comfortable house for a family of three, but now it's just a ruin."
 
 
-The closet is here.  The dead baby is here. The description of the closet is "The closet seems to be closed.  The blood is dripping through the gap."  
+The closet is here.  The dead baby is here. The description of the closet is "The closet seems to be closed. Blood is seeping through the gap under the door."
 
 Instead of opening the closet:
-	say "You try to open the closet, but it cannot be opened with hands.  'I need to break open closet with something other than my hand.'".
+	say "You try to open the closet, but it cannot be opened with hands. 'I need to break open the closet with something other than my hand.'".
 
 Instead of breaking open the closet with the axe:
-	say "You carefully break the door of the closet as if to not harm anything inside.  'The baby could be here...dead or alive.'  Somehow you know that baby could not have survived in the closet alone.  The door breaks open and you look inside.  The baby is dead inside.  You carefully wrap the baby in cloth and carry the baby gently. ";
+	say "You carefully break the door of the closet as if to not harm anything inside.  'The baby could be here... dead or alive.'  Somehow you know that baby could not have survived in the closet alone. The door breaks open and you look inside. The baby is dead inside. You carefully wrap the baby in cloth. ";
 	now the player is carrying the dead baby.
 
 Instead of taking the closet, say "I don't need that.".
 
 
-The curtain is here.  The description of the curtain is "The curtain is tear down on the floor and in middle of it you can see a bump.  The blood is coming from the bump. "
+The curtain is here.  The description of the curtain is "The tattered remains of the curtain are on the floor. In middle of it you can see a blood-stained hump."
 
 Instead of taking the curtain, say "I don't see any use in that.  Should I lift it up?"
 
 Instead of lifting the curtain, say "As you lift up the curtain, the smell of rotten corpses grow stronger and your head aches even more.  You only see a dead dog under the curtain.  You feel relief and also uneasiness."
 
 
-The bed is here.  The description of the bed is "The bed is smacked down in middle.  The blood is all over the bed.  The rotten smell is unbearable.  It's impossible to sleep on this bed."
+The bed is here.  The description of the bed is "The bed is smack dab in middle.  The blood is all over the bed.  The rotten smell is unbearable.  It's impossible to sleep on this bed."
 
 Instead of sleeping on the bed, say "I would rather sleep on the ground than on that bloody bed.  I should search the bed."
 
-Instead of searching the bed, say "You search through what left of the bed, and found a corpse, if it can be called a corpse.  The bottom of the corpse is gone like it's eaten away.  'It's too big for a baby...Must be her husband.' You try to pull sympathy for the man, but only finds emptiness".
+Instead of searching the bed, say "You search through what left of the bed, and found a corpse, if it can be called a corpse.  The bottom of the corpse is gone like it's eaten away.  'It's too big for a baby... it must be her husband.' You try to feel sorry for the man, but only find apathy".
 
-The table is here.  An axe is on the table.  The description of the table is "The table is full of broken plates and rotten food.  The most surprising of it all, a bloody axe is on the table.". 
+The table is here.  An axe is on the table.  The description of the table is "The table is full of broken plates and rotten food. More surprisingly, a bloody axe is on the table.".
 
 Instead of taking the axe:
 	now the player is carrying the axe;
@@ -236,19 +234,19 @@ Armory is a room.  Armory is north of Road 4.
 Baldur the Blacksmith is here.  Baldur the Blacksmith is a man.  The pickaxe is here.  The sword is here.  
 
 
-Instead of taking the sword, say "You cannot use that.  It needs to be mended."
+Instead of taking the sword, say "You cannot use that. It needs to be mended."
 
 Instead of giving the iron ore to Blacksmith:
 	now the iron ore is nowhere;
 	now the player is carrying the sword;
-	say "'This iron ore will do.  Just a few tweak...There all done.  Here's the sword make sure to kill that monster for us.' Now you have a sword. ".
+	say "'This iron ore will do. Just a slight tweak... There all done. Here's the sword; make sure to kill that monster for us.' Now you have a sword. ".
 
 Instead of taking the pickaxe, say "Not yet. I’d reckon that pickaxe is worth at least a chicken."
 
 Instead of giving the chicken to Blacksmith:
 	now Blacksmith is carrying the chicken;
 	now the player is carrying the pickaxe;
-	say "'That’s a fine looking chicken you got there. I’ll trade my pickaxe for it!' Now you have an pickaxe.".
+	say "'That’s a fine looking chicken you got there. I’ll trade my pickaxe for it!' Now you have a pickaxe.".
 
 
 Chapter 2 - Actions
