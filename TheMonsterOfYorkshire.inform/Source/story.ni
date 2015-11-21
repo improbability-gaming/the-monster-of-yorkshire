@@ -48,7 +48,7 @@ Wilhelm the guard is here.  The guard is a man.
 
 
 [Road 1]
-Road 1 is a room.  Road 1 is south of Town Entrance.  Road 1 is north of Twon Square.  
+Road 1 is a room.  Road 1 is south of Town Entrance.  Road 1 is north of Town Square.  
 The description of Road 1 is "People who are walking by glance at you silently and pass by with haste."
 
 
@@ -58,7 +58,9 @@ The description of Road 1 is "People who are walking by glance at you silently a
 Town Square is a room.  Town Square is south of Road 1.  Town Square is north of Road 2.  Town Square is west of Road 3.  Town Square is east of Road 4.  
 The description of Town Square is "[if unvisited]Even though it should have been the most busiest place in the town, Town Square only has few people.[end if] A few guards are taking turns keeping watch and some town folk are wandering around.".
 
+
 The well is here.  "A well can be seen in the middle, but no one dares to get close to it.".  The well is a container.  
+water is a thing. water is inside the well.
 
 
 
@@ -79,9 +81,17 @@ The priest carries the grail.  Instead of taking the grail, say "Priest with cal
 
 Instead of examining the priest, say “The priest appears to be lost in thought. Perhaps you could interrupt his trance.”
 
-After asking the priest about “quest”, say “'In order for you to receive holy water, I must first obtain water from the well in the middle of our town.'”.
+After asking the priest about “quest”, say “'In order for you to receive holy water, I must first obtain water from the well in the middle of our town.'”
 
-After asking the priest about "town", say "This town has stood for decades, and will continue to stand despite this monster lurking about."
+Holy Water is a thing.
+
+After telling the priest about "water":
+	say "'Oh good! I will bless this water for you.'";
+	say "You now have Holy Water.";
+	now the water is nowhere;
+	now the player is carrying Holy Water.
+
+After asking the priest about "town": say "This town has stood for decades, and will continue to stand despite this monster lurking about.".
 
 
 After asking Sad Mother about "dead baby" in Church:
@@ -95,7 +105,7 @@ Road 3 is a room.  Road 3 is east of Town Square. Road 3 is west of Farmer's Hou
 
 [Farmer's House with Farmer]
 Farmer's House is a room.  Farmer's House is east of Road 3.  Farmer's House is west of Farm 1. 
-Martin the Farmer is here.  Farmer is a man.  The description of Farmer's House is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me round up these cattle, and I'll give you something in return. '  You decide to help the farmer. [end if]"
+Martin the Farmer is here.  Farmer is a man.  The description of Farmer's House is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me round up these cattle, and I'll give you a reward in return. '  You decide to help the farmer. [end if]"
 
 Instead of examining Martin the Farmer, say “The farmer looks tired, barely maintaining conscience after a long day’s work.”.
 
