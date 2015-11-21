@@ -125,13 +125,13 @@ Drink or not ends when the grail is nowhere.
 
 
 [Road]
-East Road is a room.  East Road is east of Town Square. East Road is west of Farmer's House.  
+East Road is a room.  East Road is east of Town Square. East Road is west of Farmhouse.  
 
 
 
-[Farmer's House with Farmer]
-Farmer's House is a room.  Farmer's House is east of East Road.  Farmer's House is west of Farm 1. 
-Martin the Farmer is here.  Farmer is a man.  The description of Farmer's House is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me round up these cattle, and I'll give you a reward in return.'  You decide to help the farmer. [end if]"
+[Farmhouse with Farmer]
+Farmhouse is a room.  Farmhouse is east of East Road.  Farmhouse is west of Farm. 
+Martin the Farmer is here.  Farmer is a man.  The description of Farmhouse is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me round up these cattle, and I'll give you a reward in return.'  You decide to help the farmer. [end if]"
 
 Instead of examining Martin the Farmer, say “The farmer looks tired, barely maintaining conscience after a long day’s work.”.
 
@@ -145,17 +145,17 @@ Instead of giving Cattle 2 to Martin the Farmer:
 	say "This cattle is only good when it's full of stomach.  You must have some trouble catching this, right?";
 	now Martin the Farmer is carrying Cattle 2.  
 
-After asking Martin the Farmer about "Cattle 3" in Farmer's House:
+After asking Martin the Farmer about "Cattle 3" in Farmhouse:
 	say "Oh, that bastard is one of a kind.  Leave him alone.".
 	
-After asking Martin the Farmer about "reward" in Farmer's House:
+After asking Martin the Farmer about "reward" in Farmhouse:
 	say "Oh, reward...right...uhh ...Hey! Take this chicken!  Good, healthy chicken!  Thanks for the help...right.";
 	now the player is carrying the chicken.
 	
 
 
 [Farm]
-Farm is a room.  Farm is east of Farmer's House.  The description of the Farm is "The farm is big, but now it's all burned down.   Nothing is left but some grass.  [if unvisited]The cattles are all running over the place.  You must catch them all.[end if]"
+Farm is a room.  Farm is east of Farmhouse.  The description of the Farm is "The farm is big, but now it's all burned down.   Nothing is left but some grass.  [if unvisited]The cattles are all running over the place.  You must catch them all.[end if]"
 
 Cattle 1 is here.  Cattle 2 is here. Cattle 2 is a man.  Cattle 3 is here.  Some grass is here.
 
