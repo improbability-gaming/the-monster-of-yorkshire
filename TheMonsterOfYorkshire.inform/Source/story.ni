@@ -7,7 +7,7 @@ Chapter 1 - Locations
 
 
 [Forest Path]
-Forest Path is a room.  Forest Path is south of Forest.  Forest Path is north of Outskirt.  
+Forest Path is a room.  Forest Path is north of Outskirt.  
 The description of Forest Path is "You awake to the sound of leaves rustling as the crisp autumn air flows through the surrounding forest. Slowly recovering from the grogginess of waking up you look around yourself to examine your surroundings. A few rays of sunlight pierce the thick foliage that looms several feet above your head seemingly endlessly throughout the area. You feel the warmth of the sun’s rays washing over your body as you hear a sudden snap and quickly jolt your head. Today is the day you visit one of your usual spots, Yorkshire, a few ways south of here."
  
 [‘Who’s there!?’ you yell in a commanding tone attempting to not let the fact that you are still half asleep appear in your voice.
