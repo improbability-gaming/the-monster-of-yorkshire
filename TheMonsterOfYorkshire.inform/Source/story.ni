@@ -34,9 +34,18 @@ The description of Outskirt is "[if unvisited]You reach what appears to be the o
 
 [Town Entrance with a Guard]
 Town Entrance is a room.  Town Entrance is south of Outskirt.  Town Entrance is north of North Road.  
-The description of Town Entrance is "A guard is standing. He seems to be annoyed by the smell of corpses."
+The description of Town Entrance is "A guard is standing. He seems to be annoyed by the smell of corpses. He seems knowledgeable. Perhaps you could ask him some questions."
 
 After asking guard about "quest", say "What do you mean quest? Do I look like an NPC to you?".
+After asking guard about "self", say "I'd reckon I've seen you around before, trading amongst the townfolk."
+After asking guard about "town", say "I've only guarded this town ever since the attack that happened recently."
+After asking guard about "yorkshire", say "I've only guarded this town ever since the attack that happened recently."
+After asking guard about "attack", say "Yes, there was a mysterious attack by some hideous creature a few days ago."
+After asking guard about "creature", say "I'm not sure what it looked like. Perhaps one of the villagers saw it."
+After asking guard about "monster", say "I'm not sure what it looked like. Perhaps one of the villagers saw it."
+After asking guard about "trading", say "Aren't you some kind of hunter? Perhaps you can hunt this monster."
+After asking guard about "forest", say "These surrounding forests creep me out."
+
 
 Wilhelm the guard is here.  The guard is a man.   
 
@@ -90,9 +99,12 @@ The priest carries the grail.  Instead of taking the grail, say "Priest with cal
 Instead of examining the priest, say “The priest appears to be lost in thought. Perhaps you could interrupt his trance.”
 
 After asking the priest about “quest”, say “'In order for you to receive holy water, I must first obtain water from the well in the middle of our town.'”.
-
+After asking the priest about "church", say "Our church is a sanctuary for all people.".
 After asking the priest about "town", say "This town has stood for decades, and will continue to stand despite this monster lurking about."
-
+After asking the priest about "guard", say "This new guard doesn't know what he's doing. We need more help than he can provide."
+After asking the priest about "mother", say "She is shaken over the death of her child. Best leave her be."
+After asking the priest about "baby", say "Some say it was mauled by the beast that lurks in the forests near the town."
+After asking the priest about "grail", say "This grail will help cleanse water into holy water for a divine purpose."
 
 After asking Sad Mother about "dead baby" in Church:
 	say "'Priest... caring... now... told... me... need... rest.' She falls into a deep sleep. It's best you don't disturb her.".
@@ -133,7 +145,17 @@ East Road is a room.  East Road is east of Town Square. East Road is west of Far
 
 [Farmhouse with Farmer]
 Farmhouse is a room.  Farmhouse is east of East Road.  Farmhouse is west of Farm. 
-Martin the Farmer is here.  Farmer is a man.  The description of Farmhouse is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me round up these cattle, and I'll give you a reward in return.'  You decide to help the farmer. [end if]"
+Martin the Farmer is here.  Farmer is a man.  The description of Farmhouse is "You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. [if unvisited]A farmer is trying to gather his cattles with little success.  'That monster!  We should have killed it when we had the chance! Hey, traveler, help me round up these cattle, and I'll give you a reward in return. Ask me if you have any questions.'  You should probably help the farmer. [end if]"
+
+After asking farmer about "cows", say "The cows are probably on the farm, to the east of here."
+After asking farmer about "cattle", say "The cows are probably on the farm, to the east of here."
+After asking farmer about "cow", say "The cows are probably on the farm, to the east of here."
+After asking farmer about "farmhouse", say "This here farmhouse has been around since the beginning of this town. I'd like to see it last."
+After asking farmer about "farm", say "Did you not hear me? It's probably to the east of here!"
+After asking farmer about "monster", say "A monster attacked me in the middle of the night! Made me lose my cattle!"
+After asking farmer about "reward", say "Your reward will be a nice free chicken, one of the finest in all the lands."
+After asking farmer about "chicken", say "This here chicken are probably the best you've laid your eyes on."
+After asking farmer about "grass", say "The grass around these here parts aren't great, but they'll do."
 
 Instead of examining Martin the Farmer, say “The farmer looks tired, barely maintaining conscience after a long day’s work.”.
 
@@ -200,7 +222,7 @@ Ore mine is a room.  Ore mine is west of West Road.
 
 Glittering Ore Veins is here.  "You see Glittering Ore Veins!"  Glittering Ore Veins contains iron ore.
 
-Instead of taking Glittering Ore Veins, say "You need something sharp to extract the Iron Ores."
+Instead of taking Glittering Ore Veins, say "You need something sharp to extract the Iron ore."
 
 Instead of using pickaxe on Glittering Ore Veins:
 	now the pickaxe is nowhere;
@@ -216,7 +238,7 @@ Understand "ore veins" and "ore vein" as Glittering Ore Veins.
 [Ruined House with Sad Mother]
 Ruined House is a room.  Ruined House is south of West Road.  Ruined House is north of Ruined House Inside.  The description of Ruined House is "[if unvisited]You can see a house.  Suddenly a woman comes up to you.  She's shaking hard and her speech is incoherent.  'Help...baby inside the house...my...too scared...that monster...my husband....food...dead...I...watched...baby...help...alive?...'  Then she drops to the floor sobbing.  'Guess I have to help her find the baby.'[end if] You stand in front of the door, but you are somehow afraid to enter the house.  The mother's crying pains your heart. ".
 
-Sad Mother is here.  Sad mother is a man.  
+Sad Mother is here.  Sad mother is a woman. 
 
 Instead of giving the dead baby to Sad mother:
 	say "'Oh, my....baby!  I missed...you...why...you...hungry?...Let's...go...my...dear....Thanks.....you....gift...blacksmith....armor...my...husband's...'  You try to talk about her baby's death, but she's too insane to understand you.  She runs to the church before you know it.";

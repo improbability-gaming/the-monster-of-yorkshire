@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Skein rootNode="node-0x024D3508" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7 for Windows</generator>
-  <activeNode nodeId="node-0x024DEDE8"/>
+  <activeNode nodeId="node-0x024D3508"/>
   <item nodeId="node-0x024D3508">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">The Hero of Yorkshire&#x000A;An Interactive Fiction by ImprobabilityGaming&#x000A;Release 1 / Serial number 151122 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Forest Path&#x000A;You awake to the sound of leaves rustling as the crisp autumn air flows through the surrounding forest. Slowly recovering from the grogginess of waking up you look around yourself to examine your surroundings. A few rays of sunlight pierce the thick foliage that looms several feet above your head seemingly endlessly throughout the area. You feel the warmth of the sun's rays washing over your body as you hear a sudden snap and quickly jolt your head. Today is the day you visit one of your usual spots, Yorkshire, a few ways south of here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
-    <changed>YES</changed>
+    <changed>NO</changed>
     <temporary score="0">NO</temporary>
     <children>
       <child nodeId="node-0x024F5330"/>
