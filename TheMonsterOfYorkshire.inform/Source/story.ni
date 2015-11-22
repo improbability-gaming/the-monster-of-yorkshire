@@ -293,7 +293,15 @@ Rule for printing the locale description of Ruined House Inside: say "You can se
 Armory is a room.  Armory is north of West Road.  
 Baldur the Blacksmith is here.  Baldur the Blacksmith is a man.  The pickaxe is here.  The sword is here.  
 Baldur the Blacksmith carries the ancient armor.
-
+Instead of asking blacksmith about "sword", say "This sword isn't available for use, and I can't fix it without the right kind of ore".
+Instead of asking blacksmith about "ore", say "I need iron ore which is available from the mine nearby."
+Instead of asking blacksmith about "mine", say "The mine is towards the southwest. Just head downwards and then west."
+Instead of asking blacksmith about "pickaxe", say "Sorry, in order for you to get this pickaxe, I'm going to need something in return. How about a chicken?".
+Instead of asking blacksmith about "chicken", say "You might be able to get a chicken from one of the villagers, probably the farmer?"
+Instead of asking blacksmith about "farmer", say "The farmer lives to the east of the town."
+Instead of asking blacksmith about "mother", say "Our villagers tend to be recluse, especially the mother and child that lives in the town."
+Instead of asking blacksmith about "town", say "I haven't been here long, but I'd hope that this monster business is finished with soon."
+Instead of asking blacksmith about "monster", say "Oh you haven't heard? There's a monster lurking about these parts. Looks like you're a hunter, perhaps you could take care if it for us?"
 Instead of taking the sword, say "You cannot use that.  It needs to be mended."
 
 Instead of giving the iron ore to Blacksmith:
