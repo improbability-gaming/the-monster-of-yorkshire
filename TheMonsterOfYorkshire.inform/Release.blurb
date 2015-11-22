@@ -1,17 +1,17 @@
 ! Blurb file created by Inform build 6L38
 
-status "D:\Programs\Inform 7\Internal\Miscellany\CblorbModel.html" "D:\Documents\GitHub\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform\Build\StatusCblorb.html"
+status "D:\Programs\Inform 7\Internal\Miscellany\CblorbModel.html" "D:\Documents\GT\ENGL 1102\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform\Build\StatusCblorb.html"
 
 
 ! Identification
 
-project folder "D:\Documents\GitHub\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform"
+project folder "D:\Documents\GT\ENGL 1102\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform"
 
 ! Blorb instructions
 
-storyfile leafname "The Monster of Yorkshire.gblorb"
-storyfile "D:\Documents\GitHub\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform\Build\output.ulx" include
-ifiction "D:\Documents\GitHub\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform\Metadata.iFiction" include
+storyfile leafname "The Hero of Yorkshire.gblorb"
+storyfile "D:\Documents\GT\ENGL 1102\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform\Build\output.ulx" include
+ifiction "D:\Documents\GT\ENGL 1102\the-monster-of-yorkshire\TheMonsterOfYorkshire.inform\Metadata.iFiction" include
 cover "D:\Programs\Inform 7\Internal\Miscellany\Cover.jpg"
 picture 1 "D:\Programs\Inform 7\Internal\Miscellany\Cover.jpg"
 
@@ -20,7 +20,7 @@ picture 1 "D:\Programs\Inform 7\Internal\Miscellany\Cover.jpg"
 placeholder [IFID] = "58D99F48-9F1E-4F0E-9BF5-E55BB12A64B9"
 placeholder [RELEASE] = "1"
 placeholder [YEAR] = "2015"
-placeholder [TITLE] = "The Monster of Yorkshire"
+placeholder [TITLE] = "The Hero of Yorkshire"
 placeholder [AUTHOR] = "ImprobabilityGaming"
 placeholder [BLURB] = "A work of interactive fiction."
 

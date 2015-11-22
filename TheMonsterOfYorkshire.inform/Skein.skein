@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x025534D0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x024D3508" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7 for Windows</generator>
-  <activeNode nodeId="node-0x025534D0"/>
-  <item nodeId="node-0x025534D0">
+  <activeNode nodeId="node-0x024DEDE8"/>
+  <item nodeId="node-0x024D3508">
     <command xml:space="preserve">- start -</command>
-    <result xml:space="preserve">The Monster of Yorkshire&#x000A;An Interactive Fiction by ImprobabilityGaming&#x000A;Release 1 / Serial number 151117 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Forest&#x000A;Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.&#x000A;&#x000A;Deckard Cain: "Hello, my friend!  Stay awhile and listen!"&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">The Hero of Yorkshire&#x000A;An Interactive Fiction by ImprobabilityGaming&#x000A;Release 1 / Serial number 151122 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Forest Path&#x000A;You awake to the sound of leaves rustling as the crisp autumn air flows through the surrounding forest. Slowly recovering from the grogginess of waking up you look around yourself to examine your surroundings. A few rays of sunlight pierce the thick foliage that looms several feet above your head seemingly endlessly throughout the area. You feel the warmth of the sun's rays washing over your body as you hear a sudden snap and quickly jolt your head. Today is the day you visit one of your usual spots, Yorkshire, a few ways south of here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
-    <changed>NO</changed>
+    <changed>YES</changed>
     <temporary score="0">NO</temporary>
     <children>
-      <child nodeId="node-0x0256DA40"/>
-      <child nodeId="node-0x02569178"/>
-      <child nodeId="node-0x0255F410"/>
-      <child nodeId="node-0x0255F330"/>
+      <child nodeId="node-0x024F5330"/>
+      <child nodeId="node-0x024DC620"/>
+      <child nodeId="node-0x024DF7F8"/>
+      <child nodeId="node-0x024DF4E8"/>
     </children>
   </item>
-  <item nodeId="node-0x0256DA40">
+  <item nodeId="node-0x024F5330">
     <command xml:space="preserve">look around</command>
     <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -24,11 +24,11 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0256DAB0"/>
-      <child nodeId="node-0x02569108"/>
+      <child nodeId="node-0x024F5400"/>
+      <child nodeId="node-0x024DC5B0"/>
     </children>
   </item>
-  <item nodeId="node-0x0256DAB0">
+  <item nodeId="node-0x024F5400">
     <command xml:space="preserve">where am i</command>
     <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -36,10 +36,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0256DB20"/>
+      <child nodeId="node-0x024F5470"/>
     </children>
   </item>
-  <item nodeId="node-0x0256DB20">
+  <item nodeId="node-0x024F5470">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -47,10 +47,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0256DC10"/>
+      <child nodeId="node-0x024F5D68"/>
     </children>
   </item>
-  <item nodeId="node-0x0256DC10">
+  <item nodeId="node-0x024F5D68">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Path 1&#x000A;You see a smoke coming off from far away.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -58,10 +58,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0256DF50"/>
+      <child nodeId="node-0x024F5DD8"/>
     </children>
   </item>
-  <item nodeId="node-0x0256DF50">
+  <item nodeId="node-0x024F5DD8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Forest&#x000A;Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.&#x000A;&#x000A;Deckard Cain: "Hello, my friend!  Stay awhile and listen!"&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -69,10 +69,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x02568CB0"/>
+      <child nodeId="node-0x024F5EA8"/>
     </children>
   </item>
-  <item nodeId="node-0x02568CB0">
+  <item nodeId="node-0x024F5EA8">
     <command xml:space="preserve">look aorund</command>
     <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -80,10 +80,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x02568D80"/>
+      <child nodeId="node-0x024F5F78"/>
     </children>
   </item>
-  <item nodeId="node-0x02568D80">
+  <item nodeId="node-0x024F5F78">
     <command xml:space="preserve">look around</command>
     <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -91,7 +91,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x02569108">
+  <item nodeId="node-0x024DC5B0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Forest&#x000A;Awaking from journey, you look around where you slept.  A burnt logs, a bag, and few leftover meat can be seen.  You try to remember yesterday, but it only faints away, but the only thing you remember is that you are trying to get back home and you also remember it's close by.&#x000A;&#x000A;Deckard Cain: "Hello, my friend!  Stay awhile and listen!"&#x000A;&#x000A;There is only Deckard Cain here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -99,7 +99,7 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x02569178">
+  <item nodeId="node-0x024DC620">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -107,10 +107,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x025691E8"/>
+      <child nodeId="node-0x024DC690"/>
     </children>
   </item>
-  <item nodeId="node-0x025691E8">
+  <item nodeId="node-0x024DC690">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -118,10 +118,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x025692D8"/>
+      <child nodeId="node-0x024DC780"/>
     </children>
   </item>
-  <item nodeId="node-0x025692D8">
+  <item nodeId="node-0x024DC780">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Path 1&#x000A;You see a smoke coming off from far away.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -129,10 +129,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x02569348"/>
+      <child nodeId="node-0x024DC7F0"/>
     </children>
   </item>
-  <item nodeId="node-0x02569348">
+  <item nodeId="node-0x024DC7F0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -140,10 +140,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255CB48"/>
+      <child nodeId="node-0x024DCBB0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255CB48">
+  <item nodeId="node-0x024DCBB0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Outskirt&#x000A; Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.   There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -151,10 +151,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255CBB8"/>
+      <child nodeId="node-0x024DCC20"/>
     </children>
   </item>
-  <item nodeId="node-0x0255CBB8">
+  <item nodeId="node-0x024DCC20">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -162,10 +162,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255CD40"/>
+      <child nodeId="node-0x024DD3F0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255CD40">
+  <item nodeId="node-0x024DD3F0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Town Entrance&#x000A;A guard is standing.  He seems to be annoyed with the smell of corpses.&#x000A;&#x000A;You can see Wilhelm the guard here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -173,10 +173,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D2F8"/>
+      <child nodeId="node-0x024DCDD0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D2F8">
+  <item nodeId="node-0x024DCDD0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Road 1&#x000A;People who are walking by glance at you silently and pass by with haste.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -184,10 +184,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D3D8"/>
+      <child nodeId="node-0x024DD460"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D3D8">
+  <item nodeId="node-0x024DD460">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Town Square&#x000A; Even though it should have been the most busiest place of the town, Town Square only has few people.  Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -195,10 +195,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D0C8"/>
+      <child nodeId="node-0x024DD0E0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D0C8">
+  <item nodeId="node-0x024DD0E0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Road 2&#x000A;A Sculpture of Angel is displayed.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -206,10 +206,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255CF78"/>
+      <child nodeId="node-0x024DD230"/>
     </children>
   </item>
-  <item nodeId="node-0x0255CF78">
+  <item nodeId="node-0x024DD230">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Church&#x000A;The door opens with a squeaking sound.  Inside Church, a luminescence light comes through a stained glass which portrays a fight between the devil and angel inside one person. Few people are mumbling prayers.  &#x000A;&#x000A;You can see John the Priest here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -217,10 +217,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D368"/>
+      <child nodeId="node-0x024DCE40"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D368">
+  <item nodeId="node-0x024DCE40">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -228,10 +228,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D4B8"/>
+      <child nodeId="node-0x024DD540"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D4B8">
+  <item nodeId="node-0x024DD540">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -239,10 +239,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255CFE8"/>
+      <child nodeId="node-0x024DD4D0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255CFE8">
+  <item nodeId="node-0x024DD4D0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -250,10 +250,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D1A8"/>
+      <child nodeId="node-0x024DCEB0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D1A8">
+  <item nodeId="node-0x024DCEB0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -261,10 +261,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D598"/>
+      <child nodeId="node-0x024DD150"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D598">
+  <item nodeId="node-0x024DD150">
     <command xml:space="preserve">a</command>
     <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -272,10 +272,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D058"/>
+      <child nodeId="node-0x024DD1C0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D058">
+  <item nodeId="node-0x024DD1C0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -283,10 +283,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D608"/>
+      <child nodeId="node-0x024DD000"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D608">
+  <item nodeId="node-0x024DD000">
     <command xml:space="preserve">d</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -294,10 +294,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D138"/>
+      <child nodeId="node-0x024DD2A0"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D138">
+  <item nodeId="node-0x024DD2A0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -305,10 +305,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D448"/>
+      <child nodeId="node-0x024DD380"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D448">
+  <item nodeId="node-0x024DD380">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Road 2&#x000A;A Sculpture of Angel is displayed.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -316,10 +316,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D218"/>
+      <child nodeId="node-0x024DCF20"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D218">
+  <item nodeId="node-0x024DCF20">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -327,10 +327,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255CF08"/>
+      <child nodeId="node-0x024DCF90"/>
     </children>
   </item>
-  <item nodeId="node-0x0255CF08">
+  <item nodeId="node-0x024DCF90">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Town Square&#x000A; Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -338,10 +338,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D288"/>
+      <child nodeId="node-0x024DD070"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D288">
+  <item nodeId="node-0x024DD070">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Road 3&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -349,10 +349,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255D528"/>
+      <child nodeId="node-0x024DD310"/>
     </children>
   </item>
-  <item nodeId="node-0x0255D528">
+  <item nodeId="node-0x024DD310">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Farmer's House&#x000A;You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. A farmer is trying to gather his cattles with little success.  "That monster!  We should have killed it when we had the chance! Hey, traveler, help me getting these cattles, and I'll give you a good reward. "  You decide to help the farmer. &#x000A;&#x000A;You can see Martin the Farmer here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -360,10 +360,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255CE98"/>
+      <child nodeId="node-0x024DF718"/>
     </children>
   </item>
-  <item nodeId="node-0x0255CE98">
+  <item nodeId="node-0x024DF718">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Farm 1&#x000A;The farm is big, but now it's all burned down.   Nothing is left but some grass.  The cattles are all running over the place.  You must catch them all.&#x000A;&#x000A;You can see Cattle 1, Cattle 2, Cattle 3 and some grass here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -371,10 +371,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F640"/>
+      <child nodeId="node-0x024DF408"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F640">
+  <item nodeId="node-0x024DF408">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -382,10 +382,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255ED80"/>
+      <child nodeId="node-0x024DED08"/>
     </children>
   </item>
-  <item nodeId="node-0x0255ED80">
+  <item nodeId="node-0x024DED08">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -393,29 +393,30 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x0255F410">
+  <item nodeId="node-0x024DF7F8">
     <command xml:space="preserve">s</command>
-    <result xml:space="preserve">Path 1&#x000A;You see a smoke coming off from far away.&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Outskirt&#x000A;You reach what appears to be the outskirts of a small town. The worn-down houses nearby appear as if they've been demolished. Still, it might be your only chance of contact.  As you step closer, the smell of death singes the inside of your nostrils, and you can see that the town is in a shambles resulting from a massacre.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
-    <changed>NO</changed>
+    <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F480"/>
+      <child nodeId="node-0x024DF398"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F480">
+  <item nodeId="node-0x024DF398">
     <command xml:space="preserve">s</command>
-    <result xml:space="preserve">Outskirt&#x000A; Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.   There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating.&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Town Entrance&#x000A;A guard is standing. He seems to be annoyed by the smell of corpses.&#x000A;&#x000A;You can see Wilhelm the guard here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>YES</played>
-    <changed>NO</changed>
+    <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255EF40"/>
+      <child nodeId="node-0x024DF088"/>
+      <child nodeId="node-0x024DEDE8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255EF40">
+  <item nodeId="node-0x024DF088">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Town Entrance&#x000A;A guard is standing.  He seems to be annoyed with the smell of corpses.&#x000A;&#x000A;You can see Wilhelm the guard here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -423,10 +424,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255EE60"/>
+      <child nodeId="node-0x024DF478"/>
     </children>
   </item>
-  <item nodeId="node-0x0255EE60">
+  <item nodeId="node-0x024DF478">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Road 1&#x000A;People who are walking by glance at you silently and pass by with haste.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -434,10 +435,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255EC30"/>
+      <child nodeId="node-0x024DF1D8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255EC30">
+  <item nodeId="node-0x024DF1D8">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Town Square&#x000A; Even though it should have been the most busiest place of the town, Town Square only has few people.  Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -445,10 +446,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255EED0"/>
+      <child nodeId="node-0x024DF2B8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255EED0">
+  <item nodeId="node-0x024DF2B8">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">Road 4&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -456,10 +457,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255ED10"/>
+      <child nodeId="node-0x024DEEC8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255ED10">
+  <item nodeId="node-0x024DEEC8">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">Ore Mine&#x000A;You see Glittering Ore Veins!&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -467,10 +468,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F870"/>
+      <child nodeId="node-0x024DF018"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F870">
+  <item nodeId="node-0x024DF018">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Road 4&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -478,10 +479,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F6B0"/>
+      <child nodeId="node-0x024DEBB8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F6B0">
+  <item nodeId="node-0x024DEBB8">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Town Square&#x000A; Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -489,10 +490,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F100"/>
+      <child nodeId="node-0x024DF6A8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F100">
+  <item nodeId="node-0x024DF6A8">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Road 2&#x000A;A Sculpture of Angel is displayed.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -500,10 +501,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F2C0"/>
+      <child nodeId="node-0x024DEC98"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F2C0">
+  <item nodeId="node-0x024DEC98">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Church&#x000A;The door opens with a squeaking sound.  Inside Church, a luminescence light comes through a stained glass which portrays a fight between the devil and angel inside one person. Few people are mumbling prayers.  &#x000A;&#x000A;You can see John the Priest here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -511,10 +512,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255EB50"/>
+      <child nodeId="node-0x024DF788"/>
     </children>
   </item>
-  <item nodeId="node-0x0255EB50">
+  <item nodeId="node-0x024DF788">
     <command xml:space="preserve">ask priest</command>
     <result xml:space="preserve">(for John the Priest)&#x000A;(John the Priest first taking John the Priest)&#x000A;John the Priest has better things to do.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -522,10 +523,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F720"/>
+      <child nodeId="node-0x024DF0F8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F720">
+  <item nodeId="node-0x024DF0F8">
     <command xml:space="preserve">ask priest about quest</command>
     <result xml:space="preserve">"In order for you to receive holy water, I must first obtain water from the well in the middle of our town."&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -533,10 +534,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F790"/>
+      <child nodeId="node-0x024DF868"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F790">
+  <item nodeId="node-0x024DF868">
     <command xml:space="preserve">ask priest about house</command>
     <result xml:space="preserve">There is no reply.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -544,10 +545,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F4F0"/>
+      <child nodeId="node-0x024DF248"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F4F0">
+  <item nodeId="node-0x024DF248">
     <command xml:space="preserve">ask priest about town</command>
     <result xml:space="preserve">This town has stood for decades, and will continue to stand despite this monster lurking about.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -555,7 +556,15 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
   </item>
-  <item nodeId="node-0x0255F330">
+  <item nodeId="node-0x024DEDE8">
+    <command xml:space="preserve">ask guard about quest</command>
+    <result xml:space="preserve">What do you mean quest? Do I look like an NPC to you?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x024DF4E8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -563,10 +572,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F250"/>
+      <child nodeId="node-0x024DEE58"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F250">
+  <item nodeId="node-0x024DEE58">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -574,10 +583,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255EDF0"/>
+      <child nodeId="node-0x024DF168"/>
     </children>
   </item>
-  <item nodeId="node-0x0255EDF0">
+  <item nodeId="node-0x024DF168">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Path 1&#x000A;You see a smoke coming off from far away.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -585,10 +594,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255ECA0"/>
+      <child nodeId="node-0x024DEAD8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255ECA0">
+  <item nodeId="node-0x024DEAD8">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Outskirt&#x000A; Now a town can be seen not so far from where you are.  You are delighted to see a town and to see human beings again, although you are not so sure why these feelings suddenly come up when you see the town. However, as you go closer to town, you notice that town is attacked by something.   There are burnt houses, dead cows, and dead people everywhere.  The smell of rotting corpses are toxicating.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -596,10 +605,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255EBC0"/>
+      <child nodeId="node-0x024DEF38"/>
     </children>
   </item>
-  <item nodeId="node-0x0255EBC0">
+  <item nodeId="node-0x024DEF38">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Town Entrance&#x000A;A guard is standing.  He seems to be annoyed with the smell of corpses.&#x000A;&#x000A;You can see Wilhelm the guard here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -607,10 +616,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F090"/>
+      <child nodeId="node-0x024DEFA8"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F090">
+  <item nodeId="node-0x024DEFA8">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Road 1&#x000A;People who are walking by glance at you silently and pass by with haste.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -618,10 +627,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F800"/>
+      <child nodeId="node-0x024DF558"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F800">
+  <item nodeId="node-0x024DF558">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Town Square&#x000A; Even though it should have been the most busiest place of the town, Town Square only has few people.  Few guards are taking watch and some town folks are wondering around. &#x000A;&#x000A;A well can be seen in the middle., but no one dares to get close to the well.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -629,10 +638,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F020"/>
+      <child nodeId="node-0x024DEB48"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F020">
+  <item nodeId="node-0x024DEB48">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Road 3&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -640,10 +649,10 @@
     <changed>NO</changed>
     <temporary score="0">YES</temporary>
     <children>
-      <child nodeId="node-0x0255F3A0"/>
+      <child nodeId="node-0x024DF328"/>
     </children>
   </item>
-  <item nodeId="node-0x0255F3A0">
+  <item nodeId="node-0x024DF328">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Farmer's House&#x000A;You can see a house barely intact.  The farm on the east burned entirely. It looks as though the cattle are loose. A farmer is trying to gather his cattles with little success.  "That monster!  We should have killed it when we had the chance! Hey, traveler, help me getting these cattles, and I'll give you a good reward. "  You decide to help the farmer. &#x000A;&#x000A;You can see Martin the Farmer here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>

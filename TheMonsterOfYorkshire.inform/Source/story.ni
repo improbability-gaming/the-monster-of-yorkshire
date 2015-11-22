@@ -36,6 +36,8 @@ The description of Outskirt is "[if unvisited]You reach what appears to be the o
 Town Entrance is a room.  Town Entrance is south of Outskirt.  Town Entrance is north of North Road.  
 The description of Town Entrance is "A guard is standing. He seems to be annoyed by the smell of corpses."
 
+After asking guard about "quest", say "What do you mean quest? Do I look like an NPC to you?".
+
 Wilhelm the guard is here.  The guard is a man.   
 
 
@@ -43,7 +45,7 @@ Wilhelm the guard is here.  The guard is a man.
 
 [North Road]
 North Road is a room.  North Road is south of Town Entrance.  North Road is north of Twon Square.  
-The description of North Road is "People who are walking by glance at you silently and pass by with haste."
+The description of North Road is "People who are walking by glance at you silently and pass by with haste. Despite this, perhaps you could ascertain what is happening in the town from them."
 
 
 
